@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">treasure_hunt</string>
+    <string name="dirname">treasurehunt</string>
+    <string name="gps_network_not_enabled">Location Not Enabled</string>
+    <string name="open_location_settings">Open Settings</string>
+    <string name="Cancel">Cancel</string>
+</resources>
